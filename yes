@@ -1,0 +1,913 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="---Grande Fratello---" tvg-logo="" group-title="◈ Grande Fratello ◈",---Grande Fratello---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/183287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello - Regia 1" tvg-logo="https://bigmike.club/copertine/topitalia/grandefratello.png" group-title="◈ Grande Fratello ◈",Grande Fratello - Regia 1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/182921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello - Regia 2" tvg-logo="https://bigmike.club/copertine/topitalia/grandefratello.png" group-title="◈ Grande Fratello ◈",Grande Fratello - Regia 2
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/182922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Grande Fratello - Un'ora dopo" tvg-logo="https://bigmike.club/copertine/topitalia/grandefratello.png" group-title="◈ Grande Fratello ◈",Grande Fratello - Un'ora dopo
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/182923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY CINEMA -----" tvg-logo="" group-title="◈ SKY Cinema ◈",----- SKY CINEMA -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/21.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Uno FHD (H265)" tvg-name="Sky Cinema Uno FHD (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94317.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23271.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/22.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Uno SD" tvg-name="Sky Cinema Uno SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemauno.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/109892.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno +24 (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186534.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno +24 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23410.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno +24 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/24.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema1piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Uno +24 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/11560.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Due FHD (H265)" tvg-name="Sky Cinema Due FHD (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94318.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25643.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/31.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Due FHD (H265)" tvg-name="Sky Cinema Due SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/11569.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due +24 (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186535.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Due +24 Full HD" tvg-name="Sky Cinema Due +24 Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due +24 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110835.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due +24 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/26488.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Due +24 Full HD" tvg-name="Sky Cinema Due +24 SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinema2piu24.png" group-title="◈ SKY Cinema ◈",Sky Cinema Due +24 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110836.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Suspense FHD (H265)" tvg-name="Sky Cinema Suspense FHD (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemasuspence.png" group-title="◈ SKY Cinema ◈",Sky Cinema Suspense FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94322.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemasuspence.png" group-title="◈ SKY Cinema ◈",Sky Cinema Suspense Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/26486.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemasuspence.png" group-title="◈ SKY Cinema ◈",Sky Cinema Suspense HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/26485.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Suspence SD" tvg-name="Sky Cinema Suspence SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemasuspence.png" group-title="◈ SKY Cinema ◈",Sky Cinema Suspence SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110846.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Collection FHD (H265)" tvg-name="Sky Cinema Collection FHD (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacollection.png" group-title="◈ SKY Cinema ◈",Sky Cinema Collection FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94319.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection FHD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacollection.png" group-title="◈ SKY Cinema ◈",Sky Cinema Collection FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23402.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacollection.png" group-title="◈ SKY Cinema ◈",Sky Cinema Collection HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25.m3u8
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="Sky Cinema Collection SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacollection.png" group-title="◈ SKY Cinema ◈",Sky Cinema Collection SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/11561.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Family FHD (H265)" tvg-name="Sky Cinema Family FHD (H265) " tvg-logo="https://bigmike.club/copertine/skycinema/skycinemafamily.png" group-title="◈ SKY Cinema ◈",Sky Cinema Family FHD (H265) 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94320.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemafamily.png" group-title="◈ SKY Cinema ◈",Sky Cinema Family Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23404.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemafamily.png" group-title="◈ SKY Cinema ◈",Sky Cinema Family HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/26.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Family SD" tvg-name="Cinema Family SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemafamily.png" group-title="◈ SKY Cinema ◈",Cinema Family SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/11563.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Family SD" tvg-name="Sky Cinema Family SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemafamily.png" group-title="◈ SKY Cinema ◈",Sky Cinema Family SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110844.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Action FHD (H265)" tvg-name="Sky Cinema Action FHD (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaaction.png" group-title="◈ SKY Cinema ◈",Sky Cinema Action FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94321.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaaction.png" group-title="◈ SKY Cinema ◈",Sky Cinema Action Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23403.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaaction.png" group-title="◈ SKY Cinema ◈",Sky Cinema Action HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/29.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Action SD" tvg-name="Sky Cinema Action SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaaction.png" group-title="◈ SKY Cinema ◈",Sky Cinema Action SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110838.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemadrama.png" group-title="◈ SKY Cinema ◈",Sky Cinema Drama (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186544.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemadrama.png" group-title="◈ SKY Cinema ◈",Sky Cinema Drama Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23409.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemadrama.png" group-title="◈ SKY Cinema ◈",Sky Cinema Drama HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/32.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemadrama.png" group-title="◈ SKY Cinema ◈",Sky Cinema Drama SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/11570.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacomedy.png" group-title="◈ SKY Cinema ◈",Sky Cinema Comedy Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23405.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacomedy.png" group-title="◈ SKY Cinema ◈",Sky Cinema Comedy HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/28.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Comedy SD" tvg-name="Sky Cinema Comedy SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacomedy.png" group-title="◈ SKY Cinema ◈",Sky Cinema Comedy SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110841.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Comedy FHD (H265)" tvg-name="Sky Cinema Comedy FHD (H265)" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemacomedy.png" group-title="◈ SKY Cinema ◈",Sky Cinema Comedy FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94324.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Romance FHD (H265)" tvg-name="Sky Cinema Romance FHD (H265) " tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaromance.png" group-title="◈ SKY Cinema ◈",Sky Cinema Romance FHD (H265) 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94323.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance Full HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaromance.png" group-title="◈ SKY Cinema ◈",Sky Cinema Romance Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25642.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaromance.png" group-title="◈ SKY Cinema ◈",Sky Cinema Romance HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/27.m3u8
+#EXTINF:-1 tvg-id="Sky Cinema Romance FHD (H265)" tvg-name="Sky Cinema Romance SD" tvg-logo="https://bigmike.club/copertine/skycinema/skycinemaromance.png" group-title="◈ SKY Cinema ◈",Sky Cinema Romance SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/11567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- INTRATTENIMENTO -----" tvg-logo="" group-title="◈ SKY Intrattenimento ◈",----- INTRATTENIMENTO -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/47.m3u8
+#EXTINF:-1 tvg-id="Sky Uno FHD (H265)" tvg-name="Sky Uno FHD (H265) " tvg-logo="https://bigmike.club/copertine/intrattenimento/skyuno.png" group-title="◈ SKY Intrattenimento ◈",Sky Uno FHD (H265) 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94325.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno Full HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyuno.png" group-title="◈ SKY Intrattenimento ◈",Sky Uno Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23408.m3u8
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyuno.png" group-title="◈ SKY Intrattenimento ◈",Sky Uno HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/48.m3u8
+#EXTINF:-1 tvg-id="Sky Uno SD" tvg-name="Sky Uno SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyuno.png" group-title="◈ SKY Intrattenimento ◈",Sky Uno SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111038.m3u8
+#EXTINF:-1 tvg-id="Sky Atlantic 4k" tvg-name="Sky Atlantic 4k" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyatlantic.png" group-title="◈ SKY Intrattenimento ◈",Sky Atlantic 4k
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90222.m3u8
+#EXTINF:-1 tvg-id="Sky Atlantic H265" tvg-name="Sky Atlantic H265" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyatlantic.png" group-title="◈ SKY Intrattenimento ◈",Sky Atlantic H265
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112816.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic FHD" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyatlantic.png" group-title="◈ SKY Intrattenimento ◈",Sky Atlantic FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23407.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyatlantic.png" group-title="◈ SKY Intrattenimento ◈",Sky Atlantic HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/699.m3u8
+#EXTINF:-1 tvg-id="Sky Atlantic SD" tvg-name="Sky Atlantic SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/skyatlantic.png" group-title="◈ SKY Intrattenimento ◈",Sky Atlantic SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111052.m3u8
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox (H265)" tvg-logo="https://bigmike.club/copertine/intrattenimento/fox.png" group-title="◈ SKY Intrattenimento ◈",Fox (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186536.m3u8
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox Full HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/fox.png" group-title="◈ SKY Intrattenimento ◈",Fox Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25434.m3u8
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="Fox HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/fox.png" group-title="◈ SKY Intrattenimento ◈",Fox HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/49.m3u8
+#EXTINF:-1 tvg-id="Fox SD" tvg-name="Fox SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/fox.png" group-title="◈ SKY Intrattenimento ◈",Fox SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111055.m3u8
+#EXTINF:-1 tvg-id="Gambero Rosso H265" tvg-name="Gambero Rosso H265" tvg-logo="https://bigmike.club/copertine/intrattenimento/gamberorosso.png" group-title="◈ SKY Intrattenimento ◈",Gambero Rosso H265
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176085.m3u8
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso FHD" tvg-logo="https://bigmike.club/copertine/intrattenimento/gamberorosso.png" group-title="◈ SKY Intrattenimento ◈",Gambero Rosso FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/116.m3u8
+#EXTINF:-1 tvg-id="Fox Crime  SD" tvg-name="Fox Crime (H265)" tvg-logo="https://bigmike.club/copertine/intrattenimento/foxcrime.png" group-title="◈ SKY Intrattenimento ◈",Fox Crime (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186537.m3u8
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="Fox Crime Full HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/foxcrime.png" group-title="◈ SKY Intrattenimento ◈",Fox Crime Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25462.m3u8
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/foxcrime.png" group-title="◈ SKY Intrattenimento ◈",Fox Crime HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/52.m3u8
+#EXTINF:-1 tvg-id="Fox Crime  SD" tvg-name="Fox Crime  SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/foxcrime.png" group-title="◈ SKY Intrattenimento ◈",Fox Crime  SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111056.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central Full HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/comedycentral.png" group-title="◈ SKY Intrattenimento ◈",Comedy Central Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/12175.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/comedycentral.png" group-title="◈ SKY Intrattenimento ◈",Comedy Central HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111061.m3u8
+#EXTINF:-1 tvg-id="Comedy Central SD" tvg-name="Comedy Central SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/comedycentral.png" group-title="◈ SKY Intrattenimento ◈",Comedy Central SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111060.m3u8
+#EXTINF:-1 tvg-id="Sky Blaze SD" tvg-name="Sky Blaze (H265)" tvg-logo="https://bigmike.club/copertine/intrattenimento/blaze.png" group-title="◈ SKY Intrattenimento ◈",Sky Blaze (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186538.m3u8
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="Sky Blaze Full HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/blaze.png" group-title="◈ SKY Intrattenimento ◈",Sky Blaze Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25459.m3u8
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="Sky Blaze HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/blaze.png" group-title="◈ SKY Intrattenimento ◈",Sky Blaze HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23649.m3u8
+#EXTINF:-1 tvg-id="Sky Blaze SD" tvg-name="Sky Blaze SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/blaze.png" group-title="◈ SKY Intrattenimento ◈",Sky Blaze SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111058.m3u8
+#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="La Effe FHD" tvg-logo="https://bigmike.club/copertine/intrattenimento/laeffe.png" group-title="◈ SKY Intrattenimento ◈",La Effe FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25942.m3u8
+#EXTINF:-1 tvg-id="La Effe HD" tvg-name="La Effe HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/laeffe.png" group-title="◈ SKY Intrattenimento ◈",La Effe HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111062.m3u8
+#EXTINF:-1 tvg-id="La Effe SD" tvg-name="La Effe SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/laeffe.png" group-title="◈ SKY Intrattenimento ◈",La Effe SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111063.m3u8
+#EXTINF:-1 tvg-id="Sky MTV SD" tvg-name="Sky MTV SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/mtv.png" group-title="◈ SKY Intrattenimento ◈",Sky MTV SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- CULTURA -----" tvg-logo="" group-title="◈ SKY Cultura ◈",----- CULTURA -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/104.m3u8
+#EXTINF:-1 tvg-id="Nat Geo SD" tvg-name="Nat Geo (H265)" tvg-logo="https://bigmike.club/copertine/cultura/natgeo.png" group-title="◈ SKY Cultura ◈",Nat Geo (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186541.m3u8
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="Nat Geo Full HD" tvg-logo="https://bigmike.club/copertine/cultura/natgeo.png" group-title="◈ SKY Cultura ◈",Nat Geo Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25361.m3u8
+#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="Nat Geo HD" tvg-logo="https://bigmike.club/copertine/cultura/natgeo.png" group-title="◈ SKY Cultura ◈",Nat Geo HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/106.m3u8
+#EXTINF:-1 tvg-id="Nat Geo SD" tvg-name="Nat Geo SD" tvg-logo="https://bigmike.club/copertine/cultura/natgeo.png" group-title="◈ SKY Cultura ◈",Nat Geo SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111078.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild SD" tvg-name="Nat Geo Wild (H265)" tvg-logo="https://bigmike.club/copertine/cultura/natgeowild.png" group-title="◈ SKY Cultura ◈",Nat Geo Wild (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186542.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild SD" tvg-name="Nat Geo Wild Full HD" tvg-logo="https://bigmike.club/copertine/cultura/natgeowild.png" group-title="◈ SKY Cultura ◈",Nat Geo Wild Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25358.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="Nat Geo Wild HD" tvg-logo="https://bigmike.club/copertine/cultura/natgeowild.png" group-title="◈ SKY Cultura ◈",Nat Geo Wild HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild SD" tvg-name="Nat Geo Wild SD" tvg-logo="https://bigmike.club/copertine/cultura/natgeowild.png" group-title="◈ SKY Cultura ◈",Nat Geo Wild SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111079.m3u8
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte Full HD" tvg-logo="https://bigmike.club/copertine/cultura/skyarte.png" group-title="◈ SKY Cultura ◈",Sky Arte Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/26085.m3u8
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="https://bigmike.club/copertine/cultura/skyarte.png" group-title="◈ SKY Cultura ◈",Sky Arte HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13357.m3u8
+#EXTINF:-1 tvg-id="Sky Arte SD" tvg-name="Sky Arte SD" tvg-logo="https://bigmike.club/copertine/cultura/skyarte.png" group-title="◈ SKY Cultura ◈",Sky Arte SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111069.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX Full HD" tvg-logo="https://bigmike.club/copertine/cultura/dmax.png" group-title="◈ SKY Cultura ◈",DMAX Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/99089.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX Hd" tvg-logo="https://bigmike.club/copertine/cultura/dmax.png" group-title="◈ SKY Cultura ◈",DMAX Hd
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/115.m3u8
+#EXTINF:-1 tvg-id="Dmax SD" tvg-name="Dmax SD" tvg-logo="https://bigmike.club/copertine/cultura/dmax.png" group-title="◈ SKY Cultura ◈",Dmax SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/110819.m3u8
+#EXTINF:-1 tvg-id="CI Crime Investigation SD" tvg-name="CI Crime Investigation (H265)" tvg-logo="https://bigmike.club/copertine/intrattenimento/cicrimeinvestigation.png" group-title="◈ SKY Intrattenimento ◈",CI Crime Investigation (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186543.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Ci Crime Investigation Full HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/cicrimeinvestigation.png" group-title="◈ SKY Intrattenimento ◈",Ci Crime Investigation Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25460.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="CI Crime Investigation HD" tvg-logo="https://bigmike.club/copertine/cultura/crimeinvestigation.png" group-title="◈ SKY Cultura ◈",CI Crime Investigation HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/107.m3u8
+#EXTINF:-1 tvg-id="CI Crime Investigation SD" tvg-name="CI Crime Investigation SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/cicrimeinvestigation.png" group-title="◈ SKY Intrattenimento ◈",CI Crime Investigation SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111083.m3u8
+#EXTINF:-1 tvg-id="Caccia e Pesca SD" tvg-name="Caccia e Pesca HD" tvg-logo="https://bigmike.club/copertine/cultura/cacciaepesca.png" group-title="◈ SKY Cultura ◈",Caccia e Pesca HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111065.m3u8
+#EXTINF:-1 tvg-id="Caccia e Pesca SD" tvg-name="Caccia e Pesca SD" tvg-logo="https://bigmike.club/copertine/cultura/cacciaepesca.png" group-title="◈ SKY Cultura ◈",Caccia e Pesca SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111066.m3u8
+#EXTINF:-1 tvg-id="Pesca e Caccia SD" tvg-name="Pesca e Caccia SD" tvg-logo="https://bigmike.club/copertine/cultura/pescaecaccia.png" group-title="◈ SKY Cultura ◈",Pesca e Caccia SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111068.m3u8
+#EXTINF:-1 tvg-id="Italian Fishing TV" tvg-name="Italian Fishing TV" tvg-logo="https://bigmike.club/copertine/intrattenimento/italiafishingtv.png" group-title="◈ SKY Intrattenimento ◈",Italian Fishing TV
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/93647.m3u8
+#EXTINF:-1 tvg-id="Gambero Rosso HD" tvg-name="Gambero Rosso HD" tvg-logo="https://bigmike.club/copertine/intrattenimento/gamberorosso.png" group-title="◈ SKY Intrattenimento ◈",Gambero Rosso HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111084.m3u8
+#EXTINF:-1 tvg-id="Gambero Rosso SD" tvg-name="Gambero Rosso SD" tvg-logo="https://bigmike.club/copertine/intrattenimento/gamberorosso.png" group-title="◈ SKY Intrattenimento ◈",Gambero Rosso SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111085.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network Full HD" tvg-logo="https://bigmike.club/copertine/cultura/foodnetwork.png" group-title="◈ SKY Cultura ◈",Food Network Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23489.m3u8
+#EXTINF:-1 tvg-id="Marco Polo" tvg-name="Alma TV" tvg-logo="https://bigmike.club/copertine/cultura/almatv.png" group-title="◈ SKY Cultura ◈",Alma TV
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/119.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola Full HD" tvg-logo="https://bigmike.club/copertine/topitalia/raiscuola.png" group-title="◈ TOP Italia ◈",Rai Scuola Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25319.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola HD" tvg-logo="https://bigmike.club/copertine/cultura/raiscuola.png" group-title="◈ SKY Cultura ◈",Rai Scuola HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25318.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola SD" tvg-logo="https://bigmike.club/copertine/topitalia/raiscuola.png" group-title="◈ TOP Italia ◈",Rai Scuola SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25317.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia Full HD" tvg-logo="https://bigmike.club/copertine/topitalia/raistoria.png" group-title="◈ TOP Italia ◈",Rai Storia Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25314.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia HD" tvg-logo="https://bigmike.club/copertine/cultura/raistoria.png" group-title="◈ SKY Cultura ◈",Rai Storia HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25313.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia SD" tvg-logo="https://bigmike.club/copertine/topitalia/raistoria.png" group-title="◈ TOP Italia ◈",Rai Storia SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25312.m3u8
+#EXTINF:-1 tvg-id="Senato Della Repubblica TV" tvg-name="Senato Della Repubblica TV" tvg-logo="https://bigmike.club/copertine/topitalia/senatodellarepubblicatv.png" group-title="◈ TOP Italia ◈",Senato Della Repubblica TV
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114896.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-logo="https://bigmike.club/copertine/topitalia/focus.png" group-title="◈ TOP Italia ◈",Focus
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/113.m3u8
+#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://bigmike.club/copertine/cultura/history.png" group-title="◈ SKY Cultura ◈",History HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/120.m3u8
+#EXTINF:-1 tvg-id="Discovery SD" tvg-name="Discovery (H265)" tvg-logo="https://bigmike.club/copertine/intrattenimento/discoverychannel.png" group-title="◈ SKY Intrattenimento ◈",Discovery (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186539.m3u8
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery Full HD" tvg-logo="https://bigmike.club/copertine/cultura/discovery.png" group-title="◈ SKY Cultura ◈",Discovery Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25382.m3u8
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery HD" tvg-logo="https://bigmike.club/copertine/cultura/discovery.png" group-title="◈ SKY Cultura ◈",Discovery HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/109.m3u8
+#EXTINF:-1 tvg-id="Discovery SD" tvg-name="Discovery Channel FHD" tvg-logo="https://bigmike.club/copertine/cultura/discovery.png" group-title="◈ SKY Cultura ◈",Discovery Channel FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111070.m3u8
+#EXTINF:-1 tvg-id="Discovery SD" tvg-name="Discovery Channel HD" tvg-logo="https://bigmike.club/copertine/cultura/discovery.png" group-title="◈ SKY Cultura ◈",Discovery Channel HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111071.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel SD" tvg-name="Discovery Channel SD" tvg-logo="https://bigmike.club/copertine/cultura/discovery.png" group-title="◈ SKY Cultura ◈",Discovery Channel SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111072.m3u8
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Scii (H265)" tvg-logo="https://bigmike.club/copertine/intrattenimento/discoveryscience.png" group-title="◈ SKY Intrattenimento ◈",Discovery Scii (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186540.m3u8
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Sci Full HD" tvg-logo="https://bigmike.club/copertine/cultura/discoverysci.png" group-title="◈ SKY Cultura ◈",Discovery Sci Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25381.m3u8
+#EXTINF:-1 tvg-id="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="https://bigmike.club/copertine/cultura/discoverysci.png" group-title="◈ SKY Cultura ◈",Discovery Sci HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/108.m3u8
+#EXTINF:-1 tvg-id="Discovery Sci SD" tvg-name="Discovery Sci SD" tvg-logo="https://bigmike.club/copertine/cultura/discoverysci.png" group-title="◈ SKY Cultura ◈",Discovery Sci SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111074.m3u8
+#EXTINF:-1 tvg-id="History SD" tvg-name="Hstory FHD" tvg-logo="https://bigmike.club/copertine/cultura/history.png" group-title="◈ SKY Cultura ◈",Hstory FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111080.m3u8
+#EXTINF:-1 tvg-id="Hstory FHD" tvg-name="History SD" tvg-logo="https://bigmike.club/copertine/cultura/history.png" group-title="◈ SKY Cultura ◈",History SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="===Premium CINEMA/INTRATTENIMENTO===" tvg-logo="" group-title="◈ Mediaset Premium ◈",===Premium CINEMA/INTRATTENIMENTO===
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147030.m3u8
+#EXTINF:-1 tvg-id="Premium Cinema 1 HD" tvg-name="Premium Cinema 1 FHD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema1.png" group-title="◈ Mediaset Premium ◈",Premium Cinema 1 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147031.m3u8
+#EXTINF:-1 tvg-id="Premium Cinema 1 HD" tvg-name="Premium Cinema 1 HD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema1.png" group-title="◈ Mediaset Premium ◈",Premium Cinema 1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147032.m3u8
+#EXTINF:-1 tvg-id="Premium Cinema +24 H265" tvg-name="Premium cinema +24 FHD" tvg-logo="https://bigmike.club/copertine/mediaset/cinemapiu24.png" group-title="◈ Mediaset Premium ◈",Premium cinema +24 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147035.m3u8
+#EXTINF:-1 tvg-id="Premium Cinema +24 H265" tvg-name="Premium Cinema +24 HD" tvg-logo="https://bigmike.club/copertine/mediaset/cinemapiu24.png" group-title="◈ Mediaset Premium ◈",Premium Cinema +24 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147036.m3u8
+#EXTINF:-1 tvg-id="PREMIUM CINEMA 2  HD" tvg-name="Premium Cinema 2 SD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema2.png" group-title="◈ Mediaset Premium ◈",Premium Cinema 2 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176131.m3u8
+#EXTINF:-1 tvg-id="PREMIUM CINEMA 2  HD" tvg-name="PREMIUM CINEMA 2  FHD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema2.png" group-title="◈ Mediaset Premium ◈",PREMIUM CINEMA 2  FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147038.m3u8
+#EXTINF:-1 tvg-id="PREMIUM CINEMA 2  HD" tvg-name="PREMIUM CINEMA 2  HD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema2.png" group-title="◈ Mediaset Premium ◈",PREMIUM CINEMA 2  HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147039.m3u8
+#EXTINF:-1 tvg-id="PREMIUM CINEMA 3 FHD" tvg-name="Premium Cinema 3 SD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema3.png" group-title="◈ Mediaset Premium ◈",Premium Cinema 3 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176132.m3u8
+#EXTINF:-1 tvg-id="Premium Cinema Comedy H265" tvg-name="PREMIUM CINEMA 3 FHD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema3.png" group-title="◈ Mediaset Premium ◈",PREMIUM CINEMA 3 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147042.m3u8
+#EXTINF:-1 tvg-id="Premium Cinema Comedy H265" tvg-name="PREMIUM CINEMA 3 HD" tvg-logo="https://bigmike.club/copertine/mediaset/cinema3.png" group-title="◈ Mediaset Premium ◈",PREMIUM CINEMA 3 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="--- Premium Intrattenimento ---" tvg-logo="" group-title="◈ Mediaset Premium ◈",--- Premium Intrattenimento ---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147046.m3u8
+#EXTINF:-1 tvg-id="Premium Action hd" tvg-name="Premium Action SD" tvg-logo="https://bigmike.club/copertine/mediaset/action.png" group-title="◈ Mediaset Premium ◈",Premium Action SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176137.m3u8
+#EXTINF:-1 tvg-id="Premium Action hd" tvg-name="Premium Action FHD" tvg-logo="https://bigmike.club/copertine/mediaset/action.png" group-title="◈ Mediaset Premium ◈",Premium Action FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147047.m3u8
+#EXTINF:-1 tvg-id="Premium Action hd" tvg-name="Premium Action hd" tvg-logo="https://bigmike.club/copertine/mediaset/action.png" group-title="◈ Mediaset Premium ◈",Premium Action hd
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147048.m3u8
+#EXTINF:-1 tvg-id="Premium Crime HD" tvg-name="Premium Crime SD" tvg-logo="https://bigmike.club/copertine/mediaset/crime.png" group-title="◈ Mediaset Premium ◈",Premium Crime SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176136.m3u8
+#EXTINF:-1 tvg-id="Premium Crime HD" tvg-name="Premium Crime FHD" tvg-logo="https://bigmike.club/copertine/mediaset/crime.png" group-title="◈ Mediaset Premium ◈",Premium Crime FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147051.m3u8
+#EXTINF:-1 tvg-id="Premium Crime HD" tvg-name="Premium Crime HD" tvg-logo="https://bigmike.club/copertine/mediaset/crime.png" group-title="◈ Mediaset Premium ◈",Premium Crime HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147052.m3u8
+#EXTINF:-1 tvg-id="Premium Stories HD" tvg-name="Premium Stories SD" tvg-logo="https://bigmike.club/copertine/mediaset/stories.png" group-title="◈ Mediaset Premium ◈",Premium Stories SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176135.m3u8
+#EXTINF:-1 tvg-id="Premium Stories HD" tvg-name="Premium Stories FHD" tvg-logo="https://bigmike.club/copertine/mediaset/stories.png" group-title="◈ Mediaset Premium ◈",Premium Stories FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147055.m3u8
+#EXTINF:-1 tvg-id="Premium Stories HD" tvg-name="Premium Stories HD" tvg-logo="https://bigmike.club/copertine/mediaset/stories.png" group-title="◈ Mediaset Premium ◈",Premium Stories HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/147056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- NOTIZIE -----" tvg-logo="" group-title="◈ Notizie ◈",----- NOTIZIE -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/138.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 FHD" tvg-logo="https://bigmike.club/copertine/notizie/skytg24.png" group-title="◈ Notizie ◈",Sky TG 24 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111491.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="https://bigmike.club/copertine/notizie/skytg24.png" group-title="◈ Notizie ◈",Sky Tg 24 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/139.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 SD" tvg-logo="https://bigmike.club/copertine/notizie/skytg24.png" group-title="◈ Notizie ◈",Sky TG 24 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111494.m3u8
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://bigmike.club/copertine/notizie/tgcom24.png" group-title="◈ Notizie ◈",Tg Com 24
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/140.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 Full HD" tvg-logo="https://bigmike.club/copertine/notizie/rainews24.png" group-title="◈ Notizie ◈",Rai News 24 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25323.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 SD" tvg-logo="https://bigmike.club/copertine/notizie/rainews24.png" group-title="◈ Notizie ◈",Rai News 24 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25322.m3u8
+#EXTINF:-1 tvg-id="Tgnorba24.it" tvg-name="Tg Norba 24" tvg-logo="https://bigmike.club/copertine/notizie/tgnorba24.png" group-title="◈ Notizie ◈",Tg Norba 24
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/10201.m3u8
+#EXTINF:-1 tvg-id="Euroews Italia" tvg-name="Euronews Italia" tvg-logo="https://bigmike.club/copertine/notizie/euronews.png" group-title="◈ Notizie ◈",Euronews Italia
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175559.m3u8
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="News CNBC" tvg-logo="https://bigmike.club/copertine/notizie/cnbc.png" group-title="◈ Notizie ◈",News CNBC
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY PRIMAFILA -----" tvg-logo="" group-title="◈ SKY Primafila Live ◈",----- SKY PRIMAFILA -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafila " tvg-logo="https://bigmike.club/copertine/primafilalive/vetrina.png" group-title="◈ SKY Primafila Live ◈",Vetrina Sky Primafila 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114119.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 1 FHD" tvg-name="Primafila 1 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 1 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/35.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 2 FHD" tvg-name="Primafila 2 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 2 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114120.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 3 FHD" tvg-name="Primafila 3 HD Live" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 3 HD Live
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/37.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila 4 FHD" tvg-name="Sky Primafila 4 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 4 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114121.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 5 FHD" tvg-name="Primafila 5 FHD Live" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 5 FHD Live
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/39.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 6 FHD" tvg-name="Sky Primafila 6 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 6 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114122.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 7 FHD" tvg-name="Primafila 7 FHD Live" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 7 FHD Live
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/41.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 8 FHD" tvg-name="Sky Primafila 8 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 8 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114123.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 9 FHD" tvg-name="Primafila 9 FHD Live" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 9 FHD Live
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/43.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila 10 FHD" tvg-name="Sky Primafila 10 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 10 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114124.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 11 FHD" tvg-name="Primafila 11 FHD Live" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 11 FHD Live
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/521.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 12 FHD" tvg-name="Sky Primafila 12 FHD " tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 12 FHD 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114125.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 13 FHD" tvg-name="Sky Primafila 13 FHD " tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 13 FHD 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/3226.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 14 FHD" tvg-name="Sky Primafila 14 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 14 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114126.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 15 FHD" tvg-name="Primafila 15 HD Live" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Primafila 15 HD Live
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/3227.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 16 FHD" tvg-name="Sky Primafila 16 FHD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 16 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/114127.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 17 FHD" tvg-name="Sky Primafila 17 FHD " tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 17 FHD 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/3228.m3u8
+#EXTINF:-1 tvg-id="Sky Primafila Premiere 18 FHD" tvg-name="Sky Primafila 18 Full HD" tvg-logo="https://bigmike.club/copertine/primafilalive/skyprimafila.png" group-title="◈ SKY Primafila Live ◈",Sky Primafila 18 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/176654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="====== PRIMAFILA =======" tvg-logo="" group-title="◈ Sky PrimaFila Premiere ◈",====== PRIMAFILA =======
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafila Premiere HD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/vetrina.png" group-title="◈ Sky PrimaFila Premiere ◈",Vetrina Sky Primafila Premiere HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 1 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 1 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 2 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 2 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 3 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 3 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 4 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 4 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 5 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 5 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 6 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 6 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 7 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 7 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 8 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 8 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 9 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 9 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 10 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 10 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 11 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 11 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 12 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 12 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 13 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 13 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 14 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 14 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 15 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 15 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 16 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 16 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 17 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 17 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 18 FHD" tvg-logo="https://bigmike.club/copertine/primafilapremiere/premiere.png" group-title="◈ Sky PrimaFila Premiere ◈",Sky Primafila Premiere 18 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- BAMBINI -----" tvg-logo="" group-title="◈ Bambini ◈",----- BAMBINI -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/126.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="https://bigmike.club/copertine/bambini/disneychannel.png" group-title="◈ Bambini ◈",Disney Channel
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112777.m3u8
+#EXTINF:-1 tvg-id="Disney Plus" tvg-name="Disney Plus" tvg-logo="https://bigmike.club/copertine/bambini/disneyplus.png" group-title="◈ Bambini ◈",Disney Plus
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177966.m3u8
+#EXTINF:-1 tvg-id="Disney Plus Film HD" tvg-name="Disney Plus 2" tvg-logo="https://bigmike.club/copertine/bambini/disneyplus.png" group-title="◈ Bambini ◈",Disney Plus 2
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177967.m3u8
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV HD" tvg-logo="https://bigmike.club/copertine/bambini/babytv.png" group-title="◈ Bambini ◈",Baby TV HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25139.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network HD" tvg-logo="https://bigmike.club/copertine/bambini/cartoonnetwork.png" group-title="◈ Bambini ◈",Cartoon Network HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/128.m3u8
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="Sky DeaKids SD" tvg-logo="https://bigmike.club/copertine/bambini/deakids.png" group-title="◈ Bambini ◈",Sky DeaKids SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23532.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Sky Nickelodeon FHD" tvg-logo="https://bigmike.club/copertine/bambini/nickelodeon.png" group-title="◈ Bambini ◈",Sky Nickelodeon FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23531.m3u8
+#EXTINF:-1 tvg-id="Sky Nickelodeon HD" tvg-name="Sky Nickelodeon HD" tvg-logo="https://bigmike.club/copertine/bambini/nickelodeon.png" group-title="◈ Bambini ◈",Sky Nickelodeon HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111666.m3u8
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://bigmike.club/copertine/bambini/super.png" group-title="◈ Bambini ◈",Super!
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/129.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://bigmike.club/copertine/bambini/k2.png" group-title="◈ Bambini ◈",K2
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/276.m3u8
+#EXTINF:-1 tvg-id="Frisbee" tvg-name="Frisbee" tvg-logo="https://bigmike.club/copertine/bambini/frisbee.png" group-title="◈ Bambini ◈",Frisbee
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/61.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://bigmike.club/copertine/bambini/cartoonito.png" group-title="◈ Bambini ◈",Cartoonito
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/130.m3u8
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://bigmike.club/copertine/bambini/boing.png" group-title="◈ Bambini ◈",Boing
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/131.m3u8
+#EXTINF:-1 tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://bigmike.club/copertine/bambini/boingplus.png" group-title="◈ Bambini ◈",Boing Plus
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13147.m3u8
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="https://bigmike.club/copertine/bambini/boomerang.png" group-title="◈ Bambini ◈",Boomerang HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111658.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp Full HD" tvg-logo="https://bigmike.club/copertine/bambini/raigulp.png" group-title="◈ Bambini ◈",Rai Gulp Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25327.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="https://bigmike.club/copertine/bambini/raigulp.png" group-title="◈ Bambini ◈",Rai Gulp HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/132.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp SD" tvg-logo="https://bigmike.club/copertine/bambini/raigulp.png" group-title="◈ Bambini ◈",Rai Gulp SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25326.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo Full HD" tvg-logo="https://bigmike.club/copertine/bambini/raiyoyo.png" group-title="◈ Bambini ◈",Rai Yoyo Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25311.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="https://bigmike.club/copertine/bambini/raiyoyo.png" group-title="◈ Bambini ◈",Rai Yoyo HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/133.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo SD" tvg-logo="https://bigmike.club/copertine/bambini/raiyoyo.png" group-title="◈ Bambini ◈",Rai Yoyo SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25310.m3u8
+#EXTINF:-1 tvg-id="Dea Junior SD" tvg-name="DeA Junior HD" tvg-logo="https://bigmike.club/copertine/bambini/deajunior.png" group-title="◈ Bambini ◈",DeA Junior HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111659.m3u8
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr FHD" tvg-logo="https://bigmike.club/copertine/bambini/nickjr.png" group-title="◈ Bambini ◈",Nick Jr FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111664.m3u8
+#EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD" tvg-logo="https://bigmike.club/copertine/bambini/nickjr.png" group-title="◈ Bambini ◈",Nick Jr HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/111665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---Sky Sport Private---" tvg-logo="" group-title="◈ Sky Sport PrivateStream◈",---Sky Sport Private---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RALLY SHOW" tvg-logo="https://bigmike.club/copertine/canali/logo-rally-show.png" group-title="◈ Sky Sport PrivateStream◈",RALLY SHOW
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE WRESTLING" tvg-logo="https://bigmike.club/copertine/canali/logo-wrestling.png" group-title="◈ Sky Sport PrivateStream◈",WWE WRESTLING
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186985.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 SD" tvg-name="SKY SPORT 24 FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT 24 FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186938.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 SD" tvg-name="SKY SPORT 24 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT 24 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186939.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 SD" tvg-name="SKY SPORT 24 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT 24 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186940.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 HD +1" tvg-name="SKY SPORT 24 +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT 24 +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186941.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Uno FHD (H265)" tvg-name="SKY SPORT 1 FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT 1 FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186942.m3u8
+#EXTINF:-1 tvg-id="SKY SPORT UNO SD" tvg-name="SKY SPORT UNO HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT UNO HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186943.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Uno FHD (H265)" tvg-name="SKY SPORT UNO SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT UNO SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186944.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 1 +1" tvg-name="SKY SPORT UNO +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT UNO +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186945.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena SD" tvg-name="SKY SPORT ARENA FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT ARENA FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186946.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena SD" tvg-name="SKY SPORT ARENA HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT ARENA HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186947.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena +1" tvg-name="SKY SPORT ARENA +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT ARENA +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186948.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football SD" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT FOOTBALL FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186949.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football SD" tvg-name="SKY SPORT  FOOTBALL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT  FOOTBALL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186950.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football SD" tvg-name="SKY SPORT FOOTBALL SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT FOOTBALL SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186951.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football +1" tvg-name="SKY SPORT FOOTBALL +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT FOOTBALL +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186952.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection SD" tvg-name="SKY SPORT COLLECTION FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT COLLECTION FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186953.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection SD" tvg-name="SKY SPORT COLLECTION HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT COLLECTION HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186954.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection SD" tvg-name="SKY SPORT COLLECTION SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT COLLECTION SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186955.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection +1" tvg-name="SKY SPORT COLLECTION +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT COLLECTION +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIKE SMART MOBILITY" tvg-logo="https://bigmike.club/copertine/canali/logo-bike-channel.png" group-title="◈ Sky Sport PrivateStream◈",BIKE SMART MOBILITY
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIKE SMART MOBILITY +1" tvg-logo="https://bigmike.club/copertine/canali/logo-bike-channel.png" group-title="◈ Sky Sport PrivateStream◈",BIKE SMART MOBILITY +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186958.m3u8
+#EXTINF:-1 tvg-id="Sky Sport NBA SD" tvg-name="SKY SPORT NBA FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT NBA FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186959.m3u8
+#EXTINF:-1 tvg-id="Sky Sport NBA SD" tvg-name="SKY SPORT NBA HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT NBA HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186960.m3u8
+#EXTINF:-1 tvg-id="Sky Sport NBA SD" tvg-name="SKY SPORT NBA SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT NBA SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186961.m3u8
+#EXTINF:-1 tvg-id="Sky Sport NBA HD +1" tvg-name="SKY SPORT NBA +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Sport PrivateStream◈",SKY SPORT NBA +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186962.m3u8
+#EXTINF:-1 tvg-id="UnireSat Full HD" tvg-name="UNIRE SAT FHD" tvg-logo="https://bigmike.club/copertine/canali/logo-unire-sat.png" group-title="◈ Sky Sport PrivateStream◈",UNIRE SAT FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186971.m3u8
+#EXTINF:-1 tvg-id="UnireSat Full HD" tvg-name="UNIRE SAT HD" tvg-logo="https://bigmike.club/copertine/canali/logo-unire-sat.png" group-title="◈ Sky Sport PrivateStream◈",UNIRE SAT HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186972.m3u8
+#EXTINF:-1 tvg-id="Unir esat HD" tvg-name="UNIRE SAT SD" tvg-logo="https://bigmike.club/copertine/canali/logo-unire-sat.png" group-title="◈ Sky Sport PrivateStream◈",UNIRE SAT SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186973.m3u8
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="SKY CLASS HOURSE FHS" tvg-logo="https://bigmike.club/copertine/canali/logo-class-horse.png" group-title="◈ Sky Sport PrivateStream◈",SKY CLASS HOURSE FHS
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186974.m3u8
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="SKY CLASS HOURSE HD" tvg-logo="https://bigmike.club/copertine/canali/logo-class-horse.png" group-title="◈ Sky Sport PrivateStream◈",SKY CLASS HOURSE HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SI SPORT 24" tvg-logo="https://bigmike.club/copertine/canali/logo-si-sport-24.png" group-title="◈ Sky Sport PrivateStream◈",SI SPORT 24
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA" tvg-logo="https://bigmike.club/copertine/canali/logo-si-sport-italia.png" group-title="◈ Sky Sport PrivateStream◈",SPORT ITALIA
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SI SPORT CALCIO" tvg-logo="https://bigmike.club/copertine/canali/logo-si-sport-calcio.png" group-title="◈ Sky Sport PrivateStream◈",SI SPORT CALCIO
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SI SPORT MOTORI" tvg-logo="https://bigmike.club/copertine/canali/logo-si-sport-motori.png" group-title="◈ Sky Sport PrivateStream◈",SI SPORT MOTORI
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186980.m3u8
+#EXTINF:-1 tvg-id="Super Tennis SD" tvg-name="SUPERTENNIS FHD" tvg-logo="https://bigmike.club/copertine/canali/logo-super-tennis.png" group-title="◈ Sky Sport PrivateStream◈",SUPERTENNIS FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186981.m3u8
+#EXTINF:-1 tvg-id="Super Tennis SD" tvg-name="SUPERTENNIS HD" tvg-logo="https://bigmike.club/copertine/canali/logo-super-tennis.png" group-title="◈ Sky Sport PrivateStream◈",SUPERTENNIS HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186982.m3u8
+#EXTINF:-1 tvg-id="Super Tennis SD" tvg-name="SUPERTENNIS SD" tvg-logo="https://bigmike.club/copertine/canali/logo-super-tennis.png" group-title="◈ Sky Sport PrivateStream◈",SUPERTENNIS SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186983.m3u8
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-name="supersix 24" tvg-logo="https://bigmike.club/copertine/canali/logo-supersix.png" group-title="◈ Sky Sport PrivateStream◈",supersix 24
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186933.m3u8
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RAI SPORT + FHD" tvg-logo="https://bigmike.club/copertine/canali/logo-rai-sport.png" group-title="◈ Sky Sport PrivateStream◈",RAI SPORT + FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186934.m3u8
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RAI SPORT + HD" tvg-logo="https://bigmike.club/copertine/canali/logo-rai-sport.png" group-title="◈ Sky Sport PrivateStream◈",RAI SPORT + HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186935.m3u8
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="RAI SPORT + +1 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-rai-sport.png" group-title="◈ Sky Sport PrivateStream◈",RAI SPORT + +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS PLUS 1" tvg-logo="https://bigmike.club/copertine/canali/logo-tennis-plus.png" group-title="◈ Sky Sport PrivateStream◈",TENNIS PLUS 1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS PLUS 3" tvg-logo="https://bigmike.club/copertine/canali/logo-tennis-plus.png" group-title="◈ Sky Sport PrivateStream◈",TENNIS PLUS 3
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS PLUS 4" tvg-logo="https://bigmike.club/copertine/canali/logo-tennis-plus.png" group-title="◈ Sky Sport PrivateStream◈",TENNIS PLUS 4
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---SKY SPORT NETSTREAM ---" tvg-logo="" group-title="◈ SKY Sport Net Stream ◈",---SKY SPORT NETSTREAM ---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/62.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 FHD (H265)" tvg-name="Sky Sport 24 FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport 24 FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94313.m3u8
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport 24 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25432.m3u8
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport 24 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/64.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 SD" tvg-name="Sky Sport 24 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport 24 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/143167.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 24 HD +1" tvg-name="Sky Sport 24 HD +1" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport 24 HD +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13122.m3u8
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport NBA Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25644.m3u8
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport NBA HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/73.m3u8
+#EXTINF:-1 tvg-id="Sky Sport NBA SD" tvg-name="Sky Sport NBA SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport NBA SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport NBA +1" tvg-logo="https://bigmike.club/copertine/canali/logo-fox-sport-nba.png" group-title="◈ SKY Sport Net Stream ◈",Fox Sport NBA +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13127.m3u8
+#EXTINF:-1 tvg-id="SKY SPORT UNO SD" tvg-name="Sky Sport Uno FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Uno FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94314.m3u8
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Uno Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23400.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Uno FHD (H265)" tvg-name="Sky Sport Uno 4k" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Uno 4k
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90224.m3u8
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Uno HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/66.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Uno SD" tvg-name="Sky Sport Uno SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Uno SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112785.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 1 +1" tvg-name="Sky Sport 1 +1" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport 1 +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13123.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football SD" tvg-name="Sky Sport Football FHD (H265) " tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Football FHD (H265) 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94315.m3u8
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Football FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23399.m3u8
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Football HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/68.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football SD" tvg-name="Sky Sport Football SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Football SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112787.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football +1" tvg-name="Sky Sport Football +1" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Football +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13124.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena FHD (H265)" tvg-name="Sky Sport Arena FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Arena FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94316.m3u8
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Arena FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23398.m3u8
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Arena HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/70.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena SD" tvg-name="Sky Sport Arena SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Arena SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112786.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Arena +1" tvg-name="Sky Sport Arena +1" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Arena +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13125.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection SD" tvg-name="Sky Sport Collection Full HD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Collection Full HD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112793.m3u8
+#EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="Sky Sport Collection FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Collection FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23406.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection HD" tvg-name="Sky Sport Collection HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Collection HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112791.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection SD" tvg-name="Sky Sport Collection SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Collection SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112792.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Collection +1" tvg-name="Sky Sport Collection +1" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Collection +1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/13126.m3u8
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="Sky Sport Golf HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Sport Net Stream ◈",Sky Sport Golf HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/71.m3u8
+#EXTINF:-1 tvg-id="AutoMotoTV.it" tvg-name="Auto Moto TV" tvg-logo="https://bigmike.club/copertine/canali/logo-auto-moto-tv.png" group-title="◈ SKY Sport Net Stream ◈",Auto Moto TV
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/12177.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport Full HD" tvg-logo="https://bigmike.club/copertine/topitalia/raiscuola.png" group-title="◈ TOP Italia ◈",Rai Sport Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25316.m3u8
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="Rai Sport+ HD" tvg-logo="https://bigmike.club/copertine/canali/logo-rai-sport.png" group-title="◈ SKY Sport Net Stream ◈",Rai Sport+ HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/3343.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://bigmike.club/copertine/canali/logo-sport-italia.png" group-title="◈ SKY Sport Net Stream ◈",Sport Italia
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/2324.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super tennis Full HD" tvg-logo="https://bigmike.club/copertine/canali/logo-super-tennis.png" group-title="◈ SKY Sport Net Stream ◈",Super tennis Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25370.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super tennis HD" tvg-logo="https://bigmike.club/copertine/canali/logo-super-tennis.png" group-title="◈ SKY Sport Net Stream ◈",Super tennis HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/78.m3u8
+#EXTINF:-1 tvg-id="Bike Channel SD" tvg-name="Bike Channel HD" tvg-logo="https://bigmike.club/copertine/canali/logo-bike-channel.png" group-title="◈ SKY Sport Net Stream ◈",Bike Channel HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Italia HD" tvg-logo="https://bigmike.club/copertine/canali/logo-sport-italia-hd.png" group-title="◈ SKY Sport Net Stream ◈",Sport Italia HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/91309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Live 24" tvg-logo="https://bigmike.club/copertine/canali/logo-sport-italia-24-live.png" group-title="◈ SKY Sport Net Stream ◈",Sport Italia Live 24
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/91310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Calcio" tvg-logo="https://bigmike.club/copertine/canali/logo-sport-italia-calcio.png" group-title="◈ SKY Sport Net Stream ◈",Sport Italia Calcio
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/91311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport Italia Motori" tvg-logo="https://bigmike.club/copertine/canali/logo-sport-italia-motori.png" group-title="◈ SKY Sport Net Stream ◈",Sport Italia Motori
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/91312.m3u8
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="Sky Class Horse Full HD " tvg-logo="https://bigmike.club/copertine/canali/logo-class-horse.png" group-title="◈ SKY Sport Net Stream ◈",Sky Class Horse Full HD 
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112803.m3u8
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="Sky Class Horse HD" tvg-logo="https://bigmike.club/copertine/canali/logo-class-horse.png" group-title="◈ SKY Sport Net Stream ◈",Sky Class Horse HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/10149.m3u8
+#EXTINF:-1 tvg-id="ClassHorse.it" tvg-name="Sky Class Horse TV SD" tvg-logo="https://bigmike.club/copertine/canali/logo-class-horse.png" group-title="◈ SKY Sport Net Stream ◈",Sky Class Horse TV SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/91328.m3u8
+#EXTINF:-1 tvg-id="UnireSat Full HD" tvg-name="Unire sat Full HD" tvg-logo="https://bigmike.club/copertine/canali/logo-unire-sat.png" group-title="◈ SKY Sport Net Stream ◈",Unire sat Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25377.m3u8
+#EXTINF:-1 tvg-id="UnireSat Full HD" tvg-name="Unire sat HD" tvg-logo="https://bigmike.club/copertine/canali/logo-unire-sat.png" group-title="◈ SKY Sport Net Stream ◈",Unire sat HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112802.m3u8
+#EXTINF:-1 tvg-id="Rai Sport HD" tvg-name="Rai Sport HD" tvg-logo="https://bigmike.club/copertine/topitalia/raisport.png" group-title="◈ TOP Italia ◈",Rai Sport HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112804.m3u8
+#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="WWE Wrestling HD" tvg-logo="https://bigmike.club/copertine/canali/logo-wrestling.png" group-title="◈ SKY Sport Net Stream ◈",WWE Wrestling HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/112807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----- SKY CALCIO NETSTREAM -----" tvg-logo="" group-title="◈ SKY Calcio Net Stream ◈",----- SKY CALCIO NETSTREAM -----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/83.m3u8
+#EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="Top Calcio 24" tvg-logo="https://bigmike.club/copertine/topitalia/topcalcio.png" group-title="◈ TOP Italia ◈",Top Calcio 24
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Info. Calcio" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Info. Calcio
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Serie A FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport Serie A FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94309.m3u8
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="Sky Sport Serie A FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport Serie A FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Serie A 4k" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport Serie A 4k
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 251 FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 251 FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94310.m3u8
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="Sky Sport 251 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 251 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25848.m3u8
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="Sky Sport Serie A HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport Serie A HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 251 4k" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 251 4k
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90225.m3u8
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-name="Sky Sport 251 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 251 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 251 +1 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 251 +1 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  251 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport  251 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/143278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 251 +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 251 +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 252 FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 252 FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94311.m3u8
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-name="Sky Sport 252 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 252 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 252 4k" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 252 4k
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90226.m3u8
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-name="Sky Sport 252 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 252 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  252 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport  252 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/143279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 252 +1 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 252 +1 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 252 +1  HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 252 +1  HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 253 FHD (H265)" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 253 FHD (H265)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94312.m3u8
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-name="Sky Sport 253 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 253 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25850.m3u8
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-name="Sky Sport 253 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 253 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 253  SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 253  SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/143280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 253 +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 253 +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90231.m3u8
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="Sky Sport 254 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 254 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25851.m3u8
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="Sky Sport 255 Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 255 Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25852.m3u8
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-name="Sky Sport 254 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 254 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/92.m3u8
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-name="Sky Sport 255 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 255 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94.m3u8
+#EXTINF:-1 tvg-id="SkySport256.it" tvg-name="Sky Sport 256 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 256 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/95.m3u8
+#EXTINF:-1 tvg-id="SkySport257.it" tvg-name="SKY Sport 257 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",SKY Sport 257 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/96.m3u8
+#EXTINF:-1 tvg-id="SkySport258.it" tvg-name="Sky Sport 258 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 258 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/97.m3u8
+#EXTINF:-1 tvg-id="SkySport259.it" tvg-name="Sky Sport 259 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 259 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/21125.m3u8
+#EXTINF:-1 tvg-id="SkySport260.it" tvg-name="Sky Sport 260 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Net Stream ◈",Sky Sport 260 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/21126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---Sky Calcio Private---" tvg-logo="" group-title="◈ Sky Calcio PrivateStream ◈",---Sky Calcio Private---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186659.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD Simple" tvg-name="Sky Sport Serie A H265 50FPS" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Sport Serie A H265 50FPS
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186655.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD Simple" tvg-name="Sky Serie A Full HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Serie A Full HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186656.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD Simple" tvg-name="Sky Serie A HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Serie A HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186657.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD Simple" tvg-name="Sky Serie A SD(CONN.LENTA)" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Serie A SD(CONN.LENTA)
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186658.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD Simple" tvg-name="SKY SPORT SERIE A +1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY SPORT SERIE A +1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 FULL HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 1 FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 1 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 2 FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Calcio 2 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 2 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Calcio 2 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 2 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Calcio 2 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 3 FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Calcio 3 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 3 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Calcio 3 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 3 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",Sky Calcio 3 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CALCIO 4 FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",CALCIO 4 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 4 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 4 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 4 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 4 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 5 FHD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 5 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 5 HD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 5 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 5 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ Sky Calcio PrivateStream ◈",SKY CALCIO 5 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---Sky Calcio Simple TV---" tvg-logo="" group-title="◈ SKY Calcio Simple TV ◈",---Sky Calcio Simple TV---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94289.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Serie A FHD Simple" tvg-name="Sky Sport Serie A FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport Serie A FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94279.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Football SD" tvg-name="Sky Sport Football FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport Football FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94278.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 251 SD" tvg-name="Sky Sport 251 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 251 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 251 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 251 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90246.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 252 SD" tvg-name="Sky Sport 252 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 252 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 252 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 252 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90247.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 253 SD" tvg-name="Sky Sport 253 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 253 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 253 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 253 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90248.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 254 FHD Simple" tvg-name="Sky Sport 254 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 254 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 254 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Calcio 254 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90249.m3u8
+#EXTINF:-1 tvg-id="Sky Calcio 255 SD" tvg-name="Sky Sport 255 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 255 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio 255 SD" tvg-logo="https://bigmike.club/copertine/canali/icon_skycalcio.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Calcio 255 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/90250.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 256 FHD Simple" tvg-name="Sky Sport 256 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 256 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94285.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 257 FHD Simple" tvg-name="Sky Sport 257 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 257 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94286.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 258 FHD Simple" tvg-name="Sky Sport 258 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 258 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94287.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 259 FHD Simple" tvg-name="Sky Sport 259 FHD Simple" tvg-logo="https://bigmike.club/copertine/canali/icon_skysport.png" group-title="◈ SKY Calcio Simple TV ◈",Sky Sport 259 FHD Simple
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/94288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---Squadre Calcistiche---" tvg-logo="" group-title="◈ Squadre Calcio ◈",---Squadre Calcistiche---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/173294.m3u8
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Channel" tvg-logo="https://bigmike.club/copertine/canali/icon_lazio.png" group-title="◈ Squadre Calcio ◈",Lazio Channel
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/98.m3u8
+#EXTINF:-1 tvg-id="RomaChannel.it" tvg-name="Roma Channel" tvg-logo="https://bigmike.club/copertine/canali/icon_roma.png" group-title="◈ Squadre Calcio ◈",Roma Channel
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/8735.m3u8
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan Channel" tvg-logo="https://bigmike.club/copertine/canali/icon_milan.png" group-title="◈ Squadre Calcio ◈",Milan Channel
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/8737.m3u8
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="Inter Channel" tvg-logo="https://bigmike.club/copertine/canali/icon_inter.png" group-title="◈ Squadre Calcio ◈",Inter Channel
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/8736.m3u8
+#EXTINF:-1 tvg-id="TorinoChannel.it" tvg-name="Torino Channel" tvg-logo="https://bigmike.club/copertine/canali/icon_torino.png" group-title="◈ Squadre Calcio ◈",Torino Channel
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/23415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Juventus TV" tvg-logo="https://bigmike.club/copertine/canali/icon_juventus.png" group-title="◈ Squadre Calcio ◈",Juventus TV
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/93649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---DAZN NETSTREAM---" tvg-logo="" group-title="◈ DAZN Net Stream ◈",---DAZN NETSTREAM---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177551.m3u8
+#EXTINF:-1 tvg-id="DAZN One FHD" tvg-name="DAZN One FHD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN One FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177539.m3u8
+#EXTINF:-1 tvg-id="DAZN One FHD" tvg-name="DAZN One HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN One HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177540.m3u8
+#EXTINF:-1 tvg-id="[FLUX-ITA] SKY DAZN BAR FULL HD" tvg-name="DAZN 01" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 01
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177541.m3u8
+#EXTINF:-1 tvg-id="[FLUX-ITA] SKY DAZN BAR 2 FULL HD" tvg-name="DAZN 02" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 02
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 03
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 04
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 05" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 05
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 06" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 06
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 07" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 07
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 08" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 08
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 09" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 09
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Net Stream ◈",DAZN 10
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/177550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="---Dazn Private---" tvg-logo="" group-title="◈ DAZN Private Stream ◈",---Dazn Private---
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VETRINA DAZN" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",VETRINA DAZN
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN SAT FULL HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",SKY DAZN SAT FULL HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN SAT HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",SKY DAZN SAT HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN SAT SD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",SKY DAZN SAT SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186865.m3u8
+#EXTINF:-1 tvg-id="DAZN One FHD" tvg-name="DAZN 1 FHD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 1 FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186866.m3u8
+#EXTINF:-1 tvg-id="DAZN One FHD" tvg-name="DAZN 1 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 1 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186867.m3u8
+#EXTINF:-1 tvg-id="DAZN One HD" tvg-name="DAZN 1 SD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 1 SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186868.m3u8
+#EXTINF:-1 tvg-id="[FLUX-ITA] SKY DAZN BAR 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 2 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 3 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 4 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 5 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 6 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 7 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 8 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 9 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186876.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 10 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 11 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 12 HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Private Stream ◈",DAZN 12 HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/186879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="----DAZN SimpleTV----" tvg-logo="" group-title="◈ DAZN Simple TV ◈",----DAZN SimpleTV----
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/25734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VetrinaDazn" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",VetrinaDazn
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DaznSerieAeBSport209FHD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",DaznSerieAeBSport209FHD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DaznSerieAeBSport209HD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",DaznSerieAeBSport209HD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DaznSerieAeBSport209SD" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",DaznSerieAeBSport209SD
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175671.m3u8
+#EXTINF:-1 tvg-id="[FLUX-ITA] SKY DAZN BAR FULL HD" tvg-name="Dazn1" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn1
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175673.m3u8
+#EXTINF:-1 tvg-id="[FLUX-ITA] SKY DAZN BAR 2 HD" tvg-name="Dazn2" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn2
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn3" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn3
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn4" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn4
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn5" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn5
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn6" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn6
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn7" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn7
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn8" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn8
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn9" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn9
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn10" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn10
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn11" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn11
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn12" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn12
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn13" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn13
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn14" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn14
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn15" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn15
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dazn16" tvg-logo="https://bigmike.club/copertine/canali/logo-dazn.png" group-title="◈ DAZN Simple TV ◈",Dazn16
+http://superga02.noip.best:8080/live/EbUDLWOTVU/4nB5u3d17W/175688.m3u8
+
+#EXT-X-ENDLIST
